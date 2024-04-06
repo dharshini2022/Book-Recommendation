@@ -16,7 +16,7 @@ function Header(){
                 <p class="p2">Explore, Discover, Read</p>
             </div>
             <ul>
-                <li><Link to="/">Home</Link></li>
+                <li><a href="/">Home</a></li>
                 <li><Link to="/category">Category</Link></li>
                 <li><a href="/books">Search</a></li>
                 <li><a href="/Register">Register</a></li>
